@@ -67,9 +67,11 @@ Simulación de infraestructura corporativa segmentada que incluye:
 
 ## Actualmente
 
-- Preparandome la certificación eCPPT (Certified Professional Pentester)
-- Mejorando entornos Docker seguros
-- Desarrollando nuevos laboratorios híbridos ofensivo-defensivos
+- Formación en eCPPT (INE) con enfoque en metodología de pentesting y pivoting en entornos segmentados
+- Profundizando en técnicas de pivoting y movimiento lateral en entornos segmentados
+- Mejorando configuraciones seguras en Docker (reducción de privilegios y aislamiento de red)
+- Desarrollando laboratorios híbridos orientados a validación ofensiva y hardening posterior
+
 
 ---
 
