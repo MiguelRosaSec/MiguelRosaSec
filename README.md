@@ -75,6 +75,8 @@ Simulación de infraestructura corporativa segmentada que incluye:
 
 ---
 
+Interesado en oportunidades como Técnico de Seguridad, SOC Analyst o Administrador de Sistemas con enfoque en Seguridad.
+
 ## 📫 Contacto
 
 LinkedIn: www.linkedin.com/in/miguel-angel-rosa-caparros-957017245  
