@@ -79,7 +79,7 @@ Interesado en oportunidades como Técnico de Seguridad, SOC Analyst o Administra
 
 ## 📫 Contacto
 
-LinkedIn: www.linkedin.com/in/miguel-angel-rosa-caparros-957017245  
-Email: miguelangel@despachorosacaparros.com
+LinkedIn: https://www.linkedin.com/in/miguelangelrosacaparros
+Email: miguelrosasec@gmail.com
 
 
