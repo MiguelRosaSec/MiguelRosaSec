@@ -4,7 +4,7 @@
 ![Perfil](https://img.shields.io/badge/Enfoque-Híbrido-informational)
 ![Orientación](https://img.shields.io/badge/Orientación-Ofensiva-red)
 
-Administrador de Sistemas con especialización en seguridad de infraestructuras híbridas Linux / Windows.
+Técnico Superior en Administración de Sistemas Informáticos en Red con especialización en Ciberseguridad
 
 Trabajo en el diseño y auditoría de entornos segmentados (DMZ / LAN / Active Directory), aplicando técnicas ofensivas controladas para validar la seguridad y posteriormente reforzar la infraestructura mediante hardening defensivo.
 
@@ -77,9 +77,10 @@ Simulación de infraestructura corporativa segmentada que incluye:
 
 Interesado en oportunidades como Técnico de Seguridad, SOC Analyst o Administrador de Sistemas con enfoque en Seguridad.
 
-## 📫 Contacto
+## Contacto
 
 LinkedIn: https://www.linkedin.com/in/miguelangelrosacaparros
+
 Email: miguelrosasec@gmail.com
 
 
