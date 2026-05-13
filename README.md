@@ -4,9 +4,11 @@
 ![Perfil](https://img.shields.io/badge/Enfoque-Híbrido-informational)
 ![Orientación](https://img.shields.io/badge/Orientación-Ofensiva-red)
 
-Técnico Superior en Administración de Sistemas Informáticos en Red con especialización en Ciberseguridad
+Técnico Superior en Administración de Sistemas Informáticos en Red, con formación especializada en Ciberseguridad y experiencia práctica en entornos IT empresariales relacionados con comunicaciones, monitorización y mantenimiento de infraestructuras.
 
-Trabajo en el diseño y auditoría de entornos segmentados (DMZ / LAN / Active Directory), aplicando técnicas ofensivas controladas para validar la seguridad y posteriormente reforzar la infraestructura mediante hardening defensivo.
+Mi perfil está orientado a la seguridad de sistemas, redes e infraestructuras, con competencias en pentesting, Linux, Windows, Active Directory, Docker, virtualización, servicios de red, firewalls, VPN, hardening y administración segura.
+
+Experiencia en el desarrollo de laboratorios de ciberseguridad ofensiva y defensiva, despliegue de servicios, resolución de incidencias y documentación técnica. Combino la visión del atacante con la del defensor para construir infraestructuras más robustas.
 
 ---
 
