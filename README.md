@@ -1,7 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" alt="Banner perfil" width="85%">
 </p>
-
+<hr width="85%">
 <h1 align="center">Miguel Ángel Rosa Caparrós</h1>
 
 <p align="center">
