@@ -1,57 +1,90 @@
-# Miguel Ángel Rosa Caparrós
+<p align="center">
+  <img src="assets/banner.png" alt="Banner perfil" width="100%">
+</p>
 
-![ASIR](https://img.shields.io/badge/ASIR-Titulado-blue)
-![Perfil](https://img.shields.io/badge/Enfoque-Híbrido-informational)
-![Orientación](https://img.shields.io/badge/Orientación-Ofensiva-red)
+<h1 align="center">Miguel Ángel Rosa Caparrós</h1>
 
-Técnico Superior en Administración de Sistemas Informáticos en Red, con formación especializada en Ciberseguridad y experiencia práctica en entornos IT empresariales relacionados con comunicaciones, monitorización y mantenimiento de infraestructuras.
+<p align="center">
+Administrador de Sistemas | Pentesting | Seguridad de Infraestructuras
+</p>
 
-Mi perfil está orientado a la seguridad de sistemas, redes e infraestructuras, con competencias en pentesting, Linux, Windows, Active Directory, Docker, virtualización, servicios de red, firewalls, VPN, hardening y administración segura.
+<p align="center">
+  <img src="https://img.shields.io/badge/ASIR-Titulado-blue">
+  <img src="https://img.shields.io/badge/Enfoque-Híbrido-informational">
+  <img src="https://img.shields.io/badge/Orientación-Ofensiva-red">
+</p>
 
-Experiencia en el desarrollo de laboratorios de ciberseguridad ofensiva y defensiva, despliegue de servicios, resolución de incidencias y documentación técnica. Combino la visión del atacante con la del defensor para construir infraestructuras más robustas.
-
----
-
-## Enfoque Profesional
-
-- Validación ofensiva de infraestructuras
-- Segmentación de red y control de movimiento lateral
-- Explotación controlada en entornos aislados
-- Hardening de sistemas Linux y Windows
-- Análisis técnico de impacto
-
-Mi objetivo es desarrollar infraestructuras seguras desde el diseño, identificar debilidades reales y aplicar medidas de mitigación alineadas con estándares de la industria.
+<p align="center">
+  <img src="https://img.shields.io/badge/eCPPTv3-INE-red">
+  <img src="https://img.shields.io/badge/eJPTv2-INE-blue">
+  <img src="https://img.shields.io/badge/eWPTX-IN_PROGRESS-orange">
+</p>
 
 ---
 
-## Proyecto Destacado
+## Sobre mí
 
-### Enterprise-security-lab-dmz-lan-ad
+Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR), especializado en seguridad ofensiva e infraestructuras híbridas Linux / Windows.
 
-Simulación de infraestructura corporativa segmentada que incluye:
+Experiencia práctica en entornos IT empresariales relacionados con comunicaciones, monitorización, mantenimiento de infraestructuras y administración segura de sistemas.
+
+Mi perfil combina administración de sistemas, análisis ofensivo y hardening defensivo, aplicando técnicas de validación ofensiva para identificar debilidades reales y reforzar infraestructuras corporativas.
+
+---
+
+# Proyecto Destacado
+
+## Enterprise Security Lab – DMZ / LAN / Active Directory
+
+Laboratorio corporativo segmentado orientado a validación ofensiva y fortificación defensiva de infraestructura empresarial.
+
+### Capacidades demostradas
 
 - Explotación controlada en entorno aislado
-- Pivoting entre segmentos
-- Ataque DCSync en Active Directory
+- Pivoting y movimiento lateral entre segmentos
+- DCSync y compromiso de Active Directory
 - Extracción de credenciales
-- Aplicación de medidas de hardening posteriores
+- Hardening posterior de sistemas e infraestructura
+- Evaluación de impacto y riesgo técnico
 
-[Ver Proyecto](https://github.com/MiguelRosaSec/Enterprise-security-lab-dmz-lan-ad)
+### Tecnologías utilizadas
+
+`Linux` `Windows Server` `Active Directory` `Docker`
+`Metasploit` `Impacket` `MySQL` `VMware`
+
+👉 [Ver Proyecto](https://github.com/MiguelRosaSec/Enterprise-security-lab-dmz-lan-ad)
 
 ---
 
-## Stack Técnico
+# Enfoque Técnico
 
-### Sistemas
+- Seguridad ofensiva en entornos segmentados
+- Hardening de sistemas Linux y Windows
+- Segmentación de red y control de movimiento lateral
+- Seguridad en Active Directory
+- Docker y virtualización segura
+- Validación técnica de infraestructuras
+
+Mi enfoque está orientado a la simulación de entornos corporativos reales, combinando explotación controlada y fortificación defensiva.
+
+---
+
+# Stack Técnico
+
+### Sistemas Operativos
 - Ubuntu Server
 - Kali Linux
 - Windows Server 2022
 - Windows 10
-- Parrot
+- Parrot OS
 
-### Infraestructura
+### Infraestructura y Redes
 - Active Directory
 - DNS
+- DHCP
+- NAT
+- VPN
+- VLAN
 - Segmentación DMZ / LAN
 - VMware
 
@@ -62,27 +95,48 @@ Simulación de infraestructura corporativa segmentada que incluye:
 ### Seguridad
 - Metasploit
 - Impacket
-- Análisis de vulnerabilidades
+- Nmap
+- Wireshark
+- Burp Suite
+- OWASP ZAP
 - Hardening basado en buenas prácticas
 
 ---
 
-## Actualmente
+# Certificaciones
 
-- Formación en eCPPT (INE) con enfoque en metodología de pentesting y pivoting en entornos segmentados
-- Profundizando en técnicas de pivoting y movimiento lateral en entornos segmentados
-- Mejorando configuraciones seguras en Docker (reducción de privilegios y aislamiento de red)
-- Desarrollando laboratorios híbridos orientados a validación ofensiva y hardening posterior
-
+- eCPPTv3 – Certified Professional Penetration Tester (INE)
+- eJPTv2 – Junior Penetration Tester (INE)
+- eWPTX – Web Penetration Tester eXtreme (En formación)
 
 ---
 
-Interesado en oportunidades como Técnico de Seguridad, SOC Analyst o Administrador de Sistemas con enfoque en Seguridad.
+# Actualmente
 
-## Contacto
+- Profundizando en técnicas avanzadas de pentesting y movimiento lateral
+- Preparando la certificación eWPTX (Web Penetration Tester eXtreme)
+- Mejorando configuraciones seguras en Docker y segmentación de infraestructura
+- Desarrollando laboratorios híbridos ofensivo-defensivos orientados a entornos corporativos
 
-LinkedIn: https://www.linkedin.com/in/miguelangelrosacaparros
+---
 
-Email: miguelrosasec@gmail.com
+# Objetivo Profesional
 
+Interesado en oportunidades relacionadas con:
 
+- Pentesting y Seguridad Ofensiva
+- Seguridad de Infraestructuras
+- SOC / Blue Team
+- Administración de Sistemas con enfoque en Seguridad
+
+---
+
+# Contacto
+
+📍 Almería, España  
+
+🔗 LinkedIn:  
+https://linkedin.com/in/miguelangelrosacaparros
+
+📧 Email:  
+miguelrosasec@gmail.com
